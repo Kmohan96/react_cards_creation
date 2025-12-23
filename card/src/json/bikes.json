@@ -2,61 +2,61 @@
 [
   {
     "id": 1,
-    "image": "/card_images/c1.jpg",
+    "image": "card_images/c1.jpg",
     "description": "Royal Enfield Classic 350 with retro design and smooth performance",
     "price": 195000
   },
   {
     "id": 2,
-    "image": "/card_images/c2.jpg",
+    "image": "card_images/c2.jpg",
     "description": "KTM Duke 200 sporty naked bike with aggressive styling",
     "price": 190000
   },
   {
     "id": 3,
-    "image": "/card_images/c3.jpg",
+    "image": "card_images/c3.jpg",
     "description": "Yamaha R15 V4 supersport bike with advanced electronics",
     "price": 182000
   },
   {
     "id": 4,
-    "image": "/card_images/c4.jpg",
+    "image": "card_images/c4.jpg",
     "description": "Bajaj Pulsar NS200 powerful street bike with muscular look",
     "price": 160000
   },
   {
     "id": 5,
-    "image": "/card_images/c5.jpg",
+    "image": "card_images/c5.jpg",
     "description": "TVS Apache RTR 160 performance bike with racing DNA",
     "price": 135000
   },
   {
     "id": 6,
-    "image": "/card_images/c6.jpg",
+    "image": "card_images/c6.jpg",
     "description": "Honda CB350 classic cruiser with refined engine",
     "price": 210000
   },
   {
     "id": 7,
-    "image": "/card_images/c7.jpg",
+    "image": "card_images/c7.jpg",
     "description": "Suzuki Gixxer SF 250 fully faired sports tourer",
     "price": 198000
   },
   {
     "id": 8,
-    "image": "/card_images/c8.jpg",
+    "image": "card_images/c8.jpg",
     "description": "Jawa 42 modern classic bike with stylish finish",
     "price": 172000
   },
   {
     "id": 9,
-    "image": "/card_images/c9.jpg",
+    "image": "card_images/c9.jpg",
     "description": "Hero Xpulse 200 adventure bike for off-road riding",
     "price": 138000
   },
   {
     "id": 10,
-    "image": "/card_images/c10.jpg",
+    "image": "card_images/c10.jpg",
     "description": "BMW G310R premium naked bike with refined performance",
     "price": 285000
   }
