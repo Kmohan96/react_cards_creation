@@ -9,7 +9,6 @@ export default function Cardcreation() {
         
         <div className="main" key={prod.id}>
           <img src={prod.image} alt="card" />
-
           <div>
             <p>{prod.description}</p>
           </div>
