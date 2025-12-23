@@ -8,7 +8,7 @@ export default function Cardcreation() {
       {data.map((prod) => (
         
         <div className="main" key={prod.id}>
-          <img src={`${import.meta.env.BASE_URL}${prod.image}`} alt="card" />
+          <img src={prod.image} alt="card" />
           <div>
             <p>{prod.description}</p>
           </div>
